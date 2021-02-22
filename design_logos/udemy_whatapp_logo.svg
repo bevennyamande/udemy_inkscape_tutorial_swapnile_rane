@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="udemy_whatapp_logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="534.28571"
+     inkscape:cy="528.8137"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="710"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1057">
+      <path
+         id="path1029"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999999;stroke-linejoin:round"
+         d="M 395.36719,287.18164 A 276.89045,276.89045 0 0 0 118.47656,564.07227 276.89045,276.89045 0 0 0 218.77539,777.33984 l -18.26758,62.03711 -23.74804,80.64844 65.00195,-48.57617 61.76953,-46.16016 A 276.89045,276.89045 0 0 0 395.36719,840.96289 276.89045,276.89045 0 0 0 672.25781,564.07227 276.89045,276.89045 0 0 0 395.36719,287.18164 Z"
+         transform="scale(0.26458333)" />
+      <path
+         id="circle1031"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.890993;stroke-linejoin:round"
+         d="m 394.83203,317.36523 a 246.70751,246.70751 0 0 0 -246.17187,246.70704 246.70751,246.70751 0 0 0 98.28711,197.0664 l -12.75196,43.30664 -18.13281,61.58008 49.63086,-37.0918 44.5625,-33.30078 a 246.70751,246.70751 0 0 0 85.11133,15.14649 246.70751,246.70751 0 0 0 246.70703,-246.70703 246.70751,246.70751 0 0 0 -246.70703,-246.70704 246.70751,246.70751 0 0 0 -0.53516,0 z"
+         transform="scale(0.26458333)" />
+      <path
+         id="path1041"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.129893;stroke-linejoin:round"
+         d="m 73.803598,136.96702 c -5.025296,8.11772 4.677431,23.25517 21.678139,33.82056 17.010653,10.57164 34.888233,12.56423 39.930693,4.45058 1.07906,-1.73639 1.50422,-3.8601 1.25575,-6.27254 l -10.64117,-1.73754 -3.57742,3.8896 -39.423039,-23.50814 2.410136,-6.24912 -6.062387,-8.4822 c -2.518401,0.83198 -4.406264,2.21539 -5.563127,4.07661 l -0.0075,0.0122 z"
+         sodipodi:nodetypes="cccccccccccc" />
+    </g>
+  </g>
+</svg>

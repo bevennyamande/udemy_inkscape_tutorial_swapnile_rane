@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="udemy_linkedin_logo.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1001">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop997" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop999" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1001"
+       id="linearGradient1003"
+       x1="396.19681"
+       y1="1020.6014"
+       x2="482.62906"
+       y2="106.63251"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="534.28571"
+     inkscape:cy="528.8137"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="710"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1009">
+      <rect
+         style="fill:#065b83;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583"
+         id="rect139"
+         width="172.49696"
+         height="178.24994"
+         x="27.617292"
+         y="69.055611"
+         ry="26.777157" />
+      <path
+         id="path145"
+         style="opacity:0.5;fill:url(#linearGradient1003);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.68887;stroke-linejoin:round"
+         d="m 205.58594,260.99805 c -56.06757,0 -95.04586,45.47683 -101.20508,101.20507 l -9.591065,86.77942 c 114.150735,45.04952 268.447555,99.30254 409.802005,64.65613 92.83857,-22.75574 172.34331,0.23821 244.26876,-51.23128 l 7.47733,-100.20427 C 760.5101,306.291 711.20038,260.99805 655.13281,260.99805 Z"
+         transform="scale(0.26458333)"
+         sodipodi:nodetypes="sscccsss" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:154.181px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.85454"
+         x="44.638599"
+         y="214.37955"
+         id="text143"><tspan
+           sodipodi:role="line"
+           id="tspan141"
+           x="44.638599"
+           y="214.37955"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:154.181px;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:3.85454">in</tspan></text>
+    </g>
+  </g>
+</svg>
