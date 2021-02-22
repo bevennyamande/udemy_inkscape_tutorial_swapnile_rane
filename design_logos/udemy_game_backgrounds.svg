@@ -54,7 +54,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g1260">
+       id="g1403">
       <rect
          style="fill:#00ffff;fill-rule:evenodd;stroke-width:0.656051"
          id="rect1077"
@@ -472,6 +472,47 @@
            rx="20.306803"
            ry="27.050587" />
       </g>
+      <g
+         id="g1310">
+        <ellipse
+           style="opacity:1;fill:#ffffff;fill-opacity:0.992645;fill-rule:evenodd;stroke:none;stroke-width:0.230221;stroke-linejoin:round"
+           id="path1284"
+           cx="39.69096"
+           cy="214.55544"
+           rx="85.231308"
+           ry="65.84745" />
+        <ellipse
+           style="opacity:1;fill:#ffffff;fill-opacity:0.992645;fill-rule:evenodd;stroke:none;stroke-width:0.230221;stroke-linejoin:round"
+           id="ellipse1286"
+           cx="-52.617252"
+           cy="167.26935"
+           rx="85.231308"
+           ry="65.84745" />
+        <ellipse
+           style="opacity:1;fill:#ffffff;fill-opacity:0.992645;fill-rule:evenodd;stroke:none;stroke-width:0.139623;stroke-linejoin:round"
+           id="ellipse1288"
+           cx="55.096348"
+           cy="147.78627"
+           rx="51.690491"
+           ry="39.934704" />
+      </g>
+      <path
+         id="ellipse1290"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.992645;fill-rule:evenodd;stroke:none;stroke-width:0.870127;stroke-linejoin:round"
+         d="m 3496.6777,42.017578 a 322.13408,248.87225 0 0 0 -57.8183,142.261722 322.13408,248.87225 0 0 0 322.1347,248.87109 322.13408,248.87225 0 0 0 39.1192,-1.84375 322.13408,248.87225 0 0 0 309.7617,180.5625 322.13408,248.87225 0 0 0 322.1348,-248.87109 322.13408,248.87225 0 0 0 -95.0176,-176.49219 195.36563,150.93431 0 0 0 26.4726,-75.86524 195.36563,150.93431 0 0 0 -21.3613,-68.623042 z"
+         transform="scale(0.26458333)" />
+      <path
+         id="ellipse1296"
+         style="fill:#ffffff;fill-opacity:0.992645;fill-rule:evenodd;stroke:none;stroke-width:0.870127;stroke-linejoin:round"
+         d="m 1525.5957,42.017578 a 322.13408,248.87225 0 0 0 -48,130.703122 322.13408,248.87225 0 0 0 322.1328,248.87305 322.13408,248.87225 0 0 0 39.1211,-1.84375 322.13408,248.87225 0 0 0 309.7598,180.5625 322.13408,248.87225 0 0 0 322.1347,-248.87305 322.13408,248.87225 0 0 0 -95.0175,-176.49023 195.36563,150.93431 0 0 0 26.4746,-75.865236 195.36563,150.93431 0 0 0 -14.502,-57.066406 z"
+         transform="scale(0.26458333)" />
+      <ellipse
+         style="opacity:1;fill:#ffff00;fill-opacity:0.992645;fill-rule:evenodd;stroke:none;stroke-width:0.173442;stroke-linejoin:round"
+         id="path1342"
+         cx="1285.5554"
+         cy="149.68784"
+         rx="28.225973"
+         ry="26.906086" />
     </g>
   </g>
 </svg>
